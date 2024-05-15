@@ -5,7 +5,7 @@ export const NavBar = () => {
     return (
         <header className="header">
             <nav className="nav">
-                <h1 className="nav__title" id="navTitle">Code. Craft</h1>
+                <h1 className="nav__title" id="navTitle">LabTech</h1>
                 <ul className="nav__menu">   
                     <li><a className="nav__link" href="index.html">Inicio</a></li>
                     <li><a className="nav__link" href="#">Productos</a></li>

@@ -20,26 +20,26 @@
             position: absolute;
             display: block;
             color: var(--bc-orange);
-            font-family: var(--font-lato);
+            font-family: var(--font-anton);
             font-size: 4.2rem;
             font-weight: 700;
-            letter-spacing: 1.23px;
+            letter-spacing: 2px;
             cursor: pointer;
-            text-shadow: 0px 1px 3px #121212, 0px 0px 20px #ff5f038b;
+            text-shadow: .5px 1px 1px #ffffff81, 0px 0px 10px #ff5f034f;
         } 
 
         &__menu {
             position: relative;
             top: 0;
-            left: 25rem;
+            left: 20rem;
             display: flex;
 
             & .nav__link {
                 display: block;
-                width: 10rem;
+                width: 12rem;
                 height: auto;
                 color: var(--c-font-white);
-                font-size: 1.4rem;
+                font-size: 1.6rem;
                 text-align: center;
                 place-content: center center;
                 letter-spacing: 1.18px;
